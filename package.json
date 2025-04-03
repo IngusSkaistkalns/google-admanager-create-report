@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "main": "node src/main.js"
+  },
+  "dependencies": {
+    "@google-ads/admanager": "^0.3.0"
+  }
+}
